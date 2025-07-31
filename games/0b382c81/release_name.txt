@@ -1,1 +1,1 @@
-[BIOS] SwanCrystal Boot ROM (Japan) (En).wsc
+[BIOS] SwanCrystal Boot ROM (Japan) (En)

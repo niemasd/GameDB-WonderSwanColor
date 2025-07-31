@@ -1,1 +1,1 @@
-[BIOS] WonderSwan Color Boot ROM (Japan) (En).wsc
+[BIOS] WonderSwan Color Boot ROM (Japan) (En)

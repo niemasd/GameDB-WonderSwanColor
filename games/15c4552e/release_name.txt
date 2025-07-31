@@ -1,1 +1,1 @@
-RUN=DIM - Return to Earth (Japan).wsc
+RUN=DIM - Return to Earth (Japan)
